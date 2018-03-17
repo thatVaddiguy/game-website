@@ -1,0 +1,14 @@
+/* Sets up background image for the page*/
+body{
+  background-image: url("leaderboard.png");
+  background-position: center ;
+}
+
+#myModal{
+  display: block;
+  padding-top: 5%;
+}
+
+footer{
+  position: fixed;
+}

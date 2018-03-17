@@ -1,0 +1,40 @@
+/* Setting up background color*/
+#bg-1{
+  background-color: lightblue;
+}
+
+#bg-2{
+  background-color: orange;
+}
+
+#bg-3{
+  background-color: gray;
+}
+
+
+.aboutContainer{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.fa{
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+  margin: 5px 2px;
+  color: orange;
+  border-radius: 50%;
+}
+
+.fa:hover{
+  opacity: 0.7;
+}
+
+#map{
+  width: 100%;
+  height: 400px;
+}
+
+p{
+  font-size: 20px;
+}

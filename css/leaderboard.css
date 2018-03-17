@@ -1,0 +1,26 @@
+/* Sets up colors depending on the ranking*/
+#first{
+  background: gold;
+}
+
+#second{
+  background: gray;
+}
+
+#third{
+  background: #C9AE5D;
+}
+
+thead{
+  font-family: 'Signika';
+  font-weight: bold;
+}
+
+tr{
+  font-family: 'Raleway';
+  font-size: 20px;
+}
+
+footer{
+  position: fixed;
+}

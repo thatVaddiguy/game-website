@@ -1,0 +1,33 @@
+/* Sets up the css for static elements */
+
+.navbar{
+  margin-bottom: 0;
+  border-radius: 0;
+  z-index: 2000;
+  position: relative;
+}
+
+footer{
+  background-color: #555;
+  color: white;
+  padding: 15px;
+  position: bottom;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+p{
+  font-family: 'Raleway';
+  font-size: 15px;
+}
+
+h2,h1{
+  font-family: 'Signika';
+  font-weight: bold;
+}
+
+h4{
+  font-weight: bold;
+}

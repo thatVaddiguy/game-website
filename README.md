@@ -5,3 +5,7 @@ This file holds code for a fully functioning game website which has a clone of t
 ## Instructions for use
 
 To view the file you must download XAMPP and run the webpage through it.
+
+## Screenshots
+
+
